@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codexliner&label=Profile%20views&color=0e75b6&style=flat" alt="codexliner" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/662463/screenshots/3885234/white_board_explaining_monchomasse.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1961926/screenshots/6607609/tan_rig.gif">
 
 - 👨‍💻 All of my projects are available at [cityapp.host](cityapp.host)
 
