@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codexliner&label=Profile%20views&color=0e75b6&style=flat" alt="codexliner" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codexliner" alt="codexliner" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [cityapp.host](cityapp.host)
 
 - 📝 I regularly write articles on [cityapp.host](cityapp.host)
