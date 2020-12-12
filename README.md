@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [cityapp.host](cityapp.host)
 
-- 📝 I regularly write articles on [cityapp.host](cityapp.host)
+<!-- 📝 I regularly write articles on [cityapp.host](cityapp.host)-->
 
 - 📫 How to reach me **meenagopal24@gmail.com**
 
