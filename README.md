@@ -5,13 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codexliner&label=Profile%20views&color=0e75b6&style=flat" alt="codexliner" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1961926/screenshots/6607609/tan_rig.gif">
 
-- 👨‍💻 All of my projects are available at [cityapp.host](cityapp.host)
+- 👨‍💻 All of my projects are available at [cityapp.host](https://cityapp.host)
 
 <!-- 📝 I regularly write articles on [cityapp.host](cityapp.host)-->
 
 - 📫 How to reach me **meenagopal24@gmail.com**
 
-- 📄 Know about my experiences [cityapp.host](cityapp.host)
+- 📄 Know about my experiences [cityapp.host](https://cityapp.host)
 
 - ⚡ Fun fact **I think I am very funny😜**
 
