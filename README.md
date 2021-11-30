@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **meenagopal24@gmail.com**
 
-- 📄 Know about my experiences [cityapp.host](https://cityapp.host)
+- 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/meenagopal24/)
 
 - ⚡ Fun fact **I think I am very funny😜**
 
