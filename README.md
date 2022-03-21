@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codexliner&label=Profile%20views&color=0e75b6&style=flat" alt="codexliner" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1961926/screenshots/6607609/tan_rig.gif">
 
-- 👨‍💻 All of my projects are available at [cityapp.host](https://cityapp.host)
+- 👨‍💻 All of my projects are available at [Here](https://linktr.ee/meenagopal24)
 
 <!-- 📝 I regularly write articles on [cityapp.host](cityapp.host)-->
 
