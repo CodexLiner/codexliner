@@ -1,4 +1,4 @@
-[![MasterHead ](https://github.com/CodexLiner/codexliner/blob/main/images/banner.gif)](cityapp.host)
+[![MasterHead ](https://github.com/CodexLiner/codexliner/blob/main/images/width%3D100.gif)](cityapp.host)
 
 <div style="text-align: right"></div>
 
