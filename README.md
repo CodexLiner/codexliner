@@ -75,7 +75,7 @@ class About extends Me {
 
 #
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder=false&theme=vue-dark&qColor=%23944bcc&aColor=%23bbdb51" alt="Error fetching resource, Refresh again to view Jokes Card"  width = '11000' />
+<img src="https://readme-jokes.vercel.app/api?hideBorder=false&theme=vue-dark&qColor=#ffffff&aColor=#ffffff" alt="Error fetching resource, Refresh again to view Jokes Card"  width = '11000' />
 
 
 
