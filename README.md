@@ -25,7 +25,7 @@ I'm a student at [Medicaps University Indore](https://www.medicaps.ac.in).
           </td>
         </tr>
         <tr>
-            <td> <img width="300" align="right" alt="Github Image" src="https://cdn.dribbble.com/users/1961926/screenshots/6607609/tan_rig.gif" /></td>
+            <td> <img width="300" align="right" alt="Github Image" src="https://github.com/CodexLiner/codexliner/blob/main/images/me.gif?raw=true" /></td>
         </tr>
     </tbody>
 </table>
@@ -57,7 +57,7 @@ class About extends Me {
 </p>
 <!-- <hr></hr> -->
 <div align="center" width="50">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
+<img src="https://github.com/CodexLiner/codexliner/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
 <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/> -->
 </div>
 
