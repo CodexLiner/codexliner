@@ -1,10 +1,9 @@
 [![MasterHead ](https://github.com/CodexLiner/codexliner/blob/main/images/width%3D100.gif)](cityapp.host)
 
 <div style="text-align: right"></div>
-
-<a href="https://www.linkedin.com/in/meenagopal24/" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="meenagopa24" height="30" width="22px" /></a>
-<a href="https://fb.com/meenagopal24" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="meenagopal24" height="30" width="22px" /></a>
-<a href="https://instagram.com/meenagopal24" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="meenagopal24" height="30" width="22px" /></a>
+  <a href="https://www.linkedin.com/in/meenagopal24"><img align="right" src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+   <a href="https://www.instagram.com/in/meenagopal24"><img align="right" src="https://img.icons8.com/color/32/000000//instagram-new.png" alt="linkedin"/></a>
+  <a href="https://twitter.com/meenagopal24"><img align="right" src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
 
 ## Hi 👋 I am Gopal Meena!
 
