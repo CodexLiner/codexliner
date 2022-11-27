@@ -72,4 +72,8 @@ class About extends Me {
    <a href="https://www.instagram.com/in/meenagopal24"><img src="https://img.icons8.com/color/32/000000//instagram-new.png" alt="linkedin"/></a>
   <a href="https://twitter.com/meenagopal24"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
 </p>
-<img src="https://readme-jokes.vercel.app/api?hideBorder=false&theme=vue-dark&qColor=%23944bcc&aColor=%23bbdb51" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+
+#
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder=false&theme=vue-dark&qColor=%23944bcc&aColor=%23bbdb51" alt="Error fetching resource, Refresh again to view Jokes Card" height = '100' width = '11000' />
+
