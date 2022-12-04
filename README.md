@@ -58,7 +58,7 @@ class About extends Me {
 </p>
 <!-- <hr></hr> -->
 <div align="center" width="50">
-<img src="https://github.com/CodexLiner/codexliner/blob/main/images/dino_rounded.gif" width="75%"/><br>
+<img src=https://i.ibb.co/y5L7gMZ/dino-rounded-1.gif" width="75%"/><br>
 <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/> -->
 </div>
 
