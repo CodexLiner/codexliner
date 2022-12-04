@@ -1,4 +1,4 @@
-[![MasterHead ](https://drive.google.com/file/d/16sEjUPisneSB_UHC9yhynYIt2GlDco0p/view?usp=share_link)](cityapp.host)
+[![MasterHead ](https://drive.google.com/file/d/16sEjUPisneSB_UHC9yhynYIt2GlDco0p/view)](cityapp.host)
 
 <div style="text-align: right"></div>
   <a href="https://www.linkedin.com/in/meenagopal24"><img align="right" src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
