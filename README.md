@@ -26,7 +26,7 @@ I'm an android developer by specialization and am a software engineer at heart.
           </td>
         </tr>
         <tr>
-            <td width="38%"> <img align="right" alt="Github Image" src="https://i.ibb.co/4TsDWxn/me-unscreen.gif" /></td>
+            <td width="38%"> <img align="right" alt="Github Image" src="https://i.ibb.co/4TsDWxn/me-unscreen.giff" /></td>
         </tr>
     </tbody>
 </table>
