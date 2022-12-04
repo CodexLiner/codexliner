@@ -1,4 +1,4 @@
-[![MasterHead ](https://drive.google.com/file/d/16sEjUPisneSB_UHC9yhynYIt2GlDco0p/view)](cityapp.host)
+[![MasterHead ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXeX_BBjDpJI3iAfte1d66VYaaM5VYunlp30hW0wuLHhiNDkoHfSl7fHVx9jO2JBfOtoCxX-WdPLEE1jWPzjN2gppm2bQQU2S0KHuCCju_Tq6OEw_DlHQoEGBTJJ-2FGcmy6pLU4KF7HS-L_OS6ZJFM8FHxjGJIMsElTPgd3D4-cASxUxdxN3z1j9f/s320/1670136507732.gif)](cityapp.host)
 
 <div style="text-align: right"></div>
   <a href="https://www.linkedin.com/in/meenagopal24"><img align="right" src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
@@ -26,7 +26,7 @@ I'm an android developer by specialization and am a software engineer at heart.
           </td>
         </tr>
         <tr>
-            <td width="38%"> <img align="right" alt="Github Image" src="https://github.com/CodexLiner/codexliner/blob/main/images/me-unscreen.gif?raw=true" /></td>
+            <td width="38%"> <img align="right" alt="Github Image" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgddvw8UXerQkZXKAOzBpjU6QnBQamB5FK_7A8_nSp6LWYj0dYN7uxPgXHaus2Q667ukSUj1FPZ-ZIPa4hpPsHbe6N4e9id8ba01JBVi33lt0UhPgqO6Yqyh8E57bi8_v8mL7AHk2SUQQJMQOi10MT6igYv2cKPwF2GezKoH1jr4Mcb1eTbxGSB1f7z/s320/me-unscreen.gif" /></td>
         </tr>
     </tbody>
 </table>
@@ -58,7 +58,7 @@ class About extends Me {
 </p>
 <!-- <hr></hr> -->
 <div align="center" width="50">
-<img src="https://github.com/CodexLiner/codexliner/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2df9Dzo6Q-6TngBNxhTNLfQCANSuiBVaTUay1Pbvai__tQAtRlPzXhIGhOqGxaixWizGttzUhCwDm8pfscTgmXpBjP48p6PniApsswNPDiBfTTN4ka5F1STbjUUaH8P2z3HIOdH5Wj6YM-hnnGdGW8nZdiZATrYAYZqWaAC5dX5-PSL9ERrJJ6DKc/s320/dino_rounded.gif" href="https://github.com/SP-XD" width="75%"/><br>
 <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/> -->
 </div>
 
