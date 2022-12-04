@@ -58,7 +58,7 @@ class About extends Me {
 </p>
 <!-- <hr></hr> -->
 <div align="center" width="50">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2df9Dzo6Q-6TngBNxhTNLfQCANSuiBVaTUay1Pbvai__tQAtRlPzXhIGhOqGxaixWizGttzUhCwDm8pfscTgmXpBjP48p6PniApsswNPDiBfTTN4ka5F1STbjUUaH8P2z3HIOdH5Wj6YM-hnnGdGW8nZdiZATrYAYZqWaAC5dX5-PSL9ERrJJ6DKc/s320/dino_rounded.gif" href="https://github.com/SP-XD" width="75%"/><br>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2df9Dzo6Q-6TngBNxhTNLfQCANSuiBVaTUay1Pbvai__tQAtRlPzXhIGhOqGxaixWizGttzUhCwDm8pfscTgmXpBjP48p6PniApsswNPDiBfTTN4ka5F1STbjUUaH8P2z3HIOdH5Wj6YM-hnnGdGW8nZdiZATrYAYZqWaAC5dX5-PSL9ERrJJ6DKc/s320/dino_rounded.gif" width="75%"/><br>
 <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/> -->
 </div>
 
