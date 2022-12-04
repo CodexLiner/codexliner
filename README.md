@@ -1,4 +1,4 @@
-[![MasterHead ](https://github.com/CodexLiner/codexliner/blob/main/images/width%3D100.gif)](meenagopal24.me)
+[![MasterHead ](https://i.ibb.co/M1PV1HQ/1670136507732.gif)](meenagopal24.me)
 
 <div style="text-align: right"></div>
   <a href="https://www.linkedin.com/in/meenagopal24"><img align="right" src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
@@ -26,7 +26,7 @@ I'm an android developer by specialization and am a software engineer at heart.
           </td>
         </tr>
         <tr>
-            <td width="38%"> <img align="right" alt="Github Image" src="https://github.com/CodexLiner/codexliner/blob/main/images/me-unscreen.gif" /></td>
+            <td width="38%"> <img align="right" alt="Github Image" src="https://i.ibb.co/4TsDWxn/me-unscreen.gif" /></td>
         </tr>
     </tbody>
 </table>
