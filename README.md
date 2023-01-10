@@ -2,7 +2,7 @@
 
 <div style="text-align: right"></div>
   <a href="https://www.linkedin.com/in/meenagopal24"><img align="right" src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
-   <a href="https://www.instagram.com/in/meenagopal24"><img align="right" src="https://img.icons8.com/color/32/000000//instagram-new.png" alt="linkedin"/></a>
+   <a href="https://www.instagram.com/meenagopal24"><img align="right" src="https://img.icons8.com/color/32/000000//instagram-new.png" alt="linkedin"/></a>
   <a href="https://twitter.com/meenagopal_24"><img align="right" src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
 
 ## Hi 👋 I am Gopal Meena!
