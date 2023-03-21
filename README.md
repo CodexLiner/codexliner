@@ -42,10 +42,10 @@ I'm an android developer by specialization and am a software engineer at heart.
 // Languages and Tools
 class About extends Me {
   const myTools = {
-    "ProgramingLanguages" : { "Java", "Dart", "C++", "C", "Python", "Javascript" },
+    "ProgramingLanguages" : { "Java","Kotlin", "Dart", "C++", "C", "Python", "Javascript" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
     "Database" : { "Firebase", "Sqlite" , "MongoDB" },
-    "Editors" : { "Vscode", "Sublime", "Intelij" },
+    "Editors" : { "Vscode", "Sublime", "Intelij" ,"Android Studio" },
     "Platforms" : { "GNU/Linux", "Windows" },
     "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
   };
