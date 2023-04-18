@@ -5,7 +5,7 @@
    <a href="https://www.instagram.com/meenagopal24"><img align="right" src="https://img.icons8.com/ios-glyphs/30/null/instagram-circle.png" alt="linkedin"/></a>
   <a href="https://twitter.com/meenagopal_24"><img align="right" src="https://img.icons8.com/ios-glyphs/30/null/twitter-circled--v1.png" alt="twitter"/></a>
 
-## Hola 👋 I am Gopal Meena!
+## Hola 👋 I am Gopal Meena!<img align="left" src="https://img.icons8.com/ios-glyphs/30/null/verified-account--v2.png" alt="twitter"/>
 
 I'm a student at [Medicaps University Indore](https://www.medicaps.ac.in).
 
