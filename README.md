@@ -53,8 +53,8 @@ class About extends Me {
 ```
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=codexliner&show_icons=true&theme=bear&hide_border=fals" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=codexliner&theme=bear&hide_border=false" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=codexliner&show_icons=true&theme=bear&hide_border=fals" width = "42.4%">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=codexliner&theme=bear&hide_border=false" width = "45%">
 </p>
 <!-- <hr></hr> -->
 <div align="center" width="50">
