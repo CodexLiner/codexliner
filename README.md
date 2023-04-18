@@ -1,11 +1,11 @@
 [![MasterHead ](https://i.ibb.co/CJbF7tt/1670136507732.gif)](meenagopal24.me)
 
 <div style="text-align: right"></div>
-  <a href="https://www.linkedin.com/in/meenagopal24"><img align="right" src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
-   <a href="https://www.instagram.com/meenagopal24"><img align="right" src="https://img.icons8.com/color/32/000000//instagram-new.png" alt="linkedin"/></a>
-  <a href="https://twitter.com/meenagopal_24"><img align="right" src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/meenagopal24"><img align="right" src="https://img.icons8.com/ios-glyphs/30/null/linkedin-circled--v1.png" alt="linkedin"/></a>
+   <a href="https://www.instagram.com/meenagopal24"><img align="right" src="https://img.icons8.com/ios-glyphs/30/null/instagram-circle.png" alt="linkedin"/></a>
+  <a href="https://twitter.com/meenagopal_24"><img align="right" src="https://img.icons8.com/ios-glyphs/30/null/twitter-circled--v1.png" alt="twitter"/></a>
 
-## Hi 👋 I am Gopal Meena!
+## Hola 👋 I am Gopal Meena!
 
 I'm a student at [Medicaps University Indore](https://www.medicaps.ac.in).
 
