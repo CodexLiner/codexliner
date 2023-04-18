@@ -1,4 +1,4 @@
-[![MasterHead ](https://i.ibb.co/M1PV1HQ/1670136507732.gif)](meenagopal24.me)
+[![MasterHead ](https://i.ibb.co/CJbF7tt/1670136507732.gif)](meenagopal24.me)
 
 <div style="text-align: right"></div>
   <a href="https://www.linkedin.com/in/meenagopal24"><img align="right" src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
