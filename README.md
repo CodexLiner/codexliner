@@ -65,12 +65,12 @@ class About extends Me {
 ## Links
 
 <p align="center">
-  <a href="https://meenagopal24.me/blogs"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
-  <a href= "https://dev.to/mg24"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-  <a href="mailto:meenagopal24@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/meenagopal24"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
-   <a href="https://www.instagram.com/meenagopal24"><img src="https://img.icons8.com/color/32/000000//instagram-new.png" alt="linkedin"/></a>
-  <a href="https://twitter.com/meenagopal_24"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://meenagopal24.me/blogs"><img width = 30 src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
+  <a href= "https://dev.to/mg24"><img width = 30  src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+  <a href="mailto:meenagopal24@gmail.com"><img  width = 30 src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/meenagopal24"><img width = 30  src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+   <a href="https://www.instagram.com/meenagopal24"><img width = 30  src="https://img.icons8.com/color/32/000000//instagram-new.png" alt="linkedin"/></a>
+  <a href="https://twitter.com/meenagopal_24"><img  width = 30 src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
 </p>
 
 #
