@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/meenagopal24"><img align="right" src="https://img.icons8.com/3d-fluency/30/null/instagram-new.png" alt="linkedin"/</a>
 <a href="https://twitter.com/meenagopal_24"><img align="right" src="https://img.icons8.com/cute-clipart/30/null/twitter.png" alt="twitter"/</a>
 
-## Hola 👋 I am Gopal Meena!<img align="left" height="30" width="30"  src="https://img.icons8.com/external-anggara-flat-anggara-putra/32/null/external-verified-ui-basic-anggara-flat-anggara-putra.png" alt="twitter"/>
+## Hola 👋 I am Gopal Meena<img align="left" height="30" width="30"  src="https://img.icons8.com/external-anggara-flat-anggara-putra/32/null/external-verified-ui-basic-anggara-flat-anggara-putra.png" alt="twitter"/>
 
 I'm a student at [Medicaps University Indore](https://www.medicaps.ac.in).
 
