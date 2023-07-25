@@ -22,7 +22,7 @@ I'm a student at [Medicaps University Indore](https://www.medicaps.ac.in).
 I'm an android developer by specialization and am a software engineer at heart.
 - I'm a student at [Medicaps University Indore](https://www.medicaps.ac.in).
 - I enjoy playing badminton and table tennis, and reading books. <img width="0%" align="right" alt="Github Image" src="https://t3.ftcdn.net/jpg/03/76/74/78/360_F_376747823_L8il80K6c2CM1lnPYJhhJZQNl6ynX1yj.jpg" />
-- I regularly write articles on [meenagopal.me](meenagopal24.me)
+- I regularly write articles on [meenagopal24.me](meenagopal24.me)
 - How to reach me meenagopal24@gmail.com
 - Let's Connect [LinkedIn Profile](https://www.linkedin.com/in/meenagopal24/)
 - Fun fact: Dr Seuss invented the word ‘nerd’.
