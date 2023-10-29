@@ -1,7 +1,7 @@
 <!-- ########################################## ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-[![MasterHead ](https://i.ibb.co/CJbF7tt/1670136507732.gif)](meenagopal24.me)
+[![MasterHead ](https://i.ibb.co/CJbF7tt/1670136507732.gif)](meenagopal24.live)
 
 <div style="text-align: right"></div>
 <a href="https://www.linkedin.com/in/meenagopal24"><img align="right" src="https://img.icons8.com/fluency/30/null/linkedin.png" alt="linkedin"/></a>
@@ -22,7 +22,7 @@ I'm a student at [Medicaps University Indore](https://www.medicaps.ac.in).
 I'm an android developer by specialization and am a software engineer at heart.
 - I'm a student at [Medicaps University Indore](https://www.medicaps.ac.in).
 - I enjoy playing badminton and table tennis, and reading books. <img width="0%" align="right" alt="Github Image" src="https://t3.ftcdn.net/jpg/03/76/74/78/360_F_376747823_L8il80K6c2CM1lnPYJhhJZQNl6ynX1yj.jpg" />
-- I regularly write articles on [meenagopal24.me](meenagopal24.me)
+- I regularly write articles on [meenagopal24.live](meenagopal24.live)
 - How to reach me meenagopal24@gmail.com
 - Let's Connect [LinkedIn Profile](https://www.linkedin.com/in/meenagopal24/)
 - Fun fact: Dr Seuss invented the word ‘nerd’.
@@ -68,7 +68,7 @@ class About extends Me {
 ## Links
 
 <p align="center">
-  <a href="https://meenagopal24.me/"><img width = 30 src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
+  <a href="https://meenagopal24.live/"><img width = 30 src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
   <a href= "https://dev.to/mg24"><img width = 30  src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
   <a href="mailto:meenagopal24@gmail.com"><img  width = 30 src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/meenagopal24"><img width = 30  src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
