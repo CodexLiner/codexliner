@@ -6,11 +6,13 @@
 <div style="text-align: right"></div>
 <a href="https://www.linkedin.com/in/meenagopal24"><img align="right" src="https://img.icons8.com/fluency/30/null/linkedin.png" alt="linkedin"/></a>
 <a href="https://www.instagram.com/meenagopal24"><img align="right" src="https://img.icons8.com/3d-fluency/30/null/instagram-new.png" alt="linkedin"/</a>
-<a href="https://twitter.com/meenagopal_24"><img align="right" src="https://img.icons8.com/cute-clipart/30/null/twitter.png" alt="twitter"/</a>
-
-## Hola 👋 I am Gopal Meena<img align="left" height="30" width="30"  src="https://img.icons8.com/external-anggara-flat-anggara-putra/32/null/external-verified-ui-basic-anggara-flat-anggara-putra.png" alt="twitter"/>
-
+<a href="https://twitter.com/meenagopal_24"><img align="right" src="https://img.icons8.com/cute-clipart/30/null/twitter.png" alt="twitter"/</a> 
+<!-- 
 I'm a student at [Medicaps University Indore](https://www.medicaps.ac.in).
+-->
+
+## Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> I am Gopal Meena<img align="left" height="30" width="30"  src="https://img.icons8.com/external-anggara-flat-anggara-putra/32/null/external-verified-ui-basic-anggara-flat-anggara-putra.png" alt="twitter"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codexliner&label=Profile%20views&color=0e75b6&style=flat" alt="codexliner" /> </p>
 <table>
@@ -69,17 +71,16 @@ class About extends Me {
 
 <p align="center">
   <a href="https://meenagopal24.live/"><img width = 30 src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
-  <a href= "https://dev.to/mg24"><img width = 30  src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
   <a href="mailto:meenagopal24@gmail.com"><img  width = 30 src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/meenagopal24"><img width = 30  src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
    <a href="https://www.instagram.com/meenagopal24"><img width = 30  src="https://img.icons8.com/color/32/000000//instagram-new.png" alt="linkedin"/></a>
   <a href="https://twitter.com/meenagopal_24"><img  width = 30 src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href= "https://dev.to/mg24"><img width = 30  src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
 </p>
 
 #
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder=false&theme=vue-dark&qColor=#ffffff&aColor=#ffffff" alt="Error fetching resource, Refresh again to view Jokes Card"  width = '11000' />
+<img src="https://readme-jokes.vercel.app/api?hideBorder=false&theme=bear&qColor=#ffffff&aColor=#ffffff" alt="Error fetching resource, Refresh again to view Jokes Card"  width = '11000' />
 
 <!-- ########################################## ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
