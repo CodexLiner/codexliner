@@ -44,13 +44,25 @@ I'm an android developer by specialization and am a software engineer at heart.
 </p> -->
 
 ```dart
+class About extends Me {
+    const myTools = {
+        "ProgramingLanguages" : { "Java","Kotlin", "Dart", "C++", "C", "Python", "Javascript" },
+        "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+        "Database" : { "Firebase", "Sqlite" , "MongoDB" },
+        "Editors" : { "Vscode", "Sublime", "Intelij" ,"Android Studio" },
+        "Platforms" : { "GNU/Linux", "Windows" },
+        "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+    };
+}
 
 ```
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=codexliner&show_icons=true&theme=bear&hide_border=fals" width = "42.4%">
-  <img src = "https://nirzak-streak-stats.vercel.app/?user=codexliner&theme=dark&hide_border=false" width = "45%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codexliner&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=codexliner&theme=dark&hide_border=false" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexliner&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150">
 </p>
+
 <!-- <hr></hr> -->
 <div align="center" width="50">
 <img src=https://i.ibb.co/y5L7gMZ/dino-rounded-1.gif" width="75%"/><br>
