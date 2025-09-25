@@ -18,17 +18,18 @@ I'm a student at [Medicaps University Indore](https://www.medicaps.ac.in).
 <table>
     <tbody border="0" cellspacing="0" cellpadding="0">
         <tr  style="width:70%">
-           <td rowspan=6>
+<td rowspan=6>
               
 ## Abstract
-I'm an android developer by specialization and am a software engineer at heart.
-- I'm a student at [Medicaps University Indore](https://www.medicaps.ac.in).
-- I enjoy playing badminton and table tennis, and reading books. <img width="0%" align="right" alt="Github Image" src="https://t3.ftcdn.net/jpg/03/76/74/78/360_F_376747823_L8il80K6c2CM1lnPYJhhJZQNl6ynX1yj.jpg" />
-- I regularly write articles on [meenagopal24.live](meenagopal24.live)
-- How to reach me meenagopal24@gmail.com
-- Let's Connect [LinkedIn Profile](https://www.linkedin.com/in/meenagopal24/)
-- Fun fact: Dr Seuss invented the word ‘nerd’.
-          </td>
+I'm an **Android Software Engineer** specializing in **Kotlin, Jetpack Compose, and Multiplatform development**.  
+- Currently working at **Digivalet Private Limited**, building scalable and modular Android applications.  
+- Experienced in **GraphQL, Kotlin Coroutines, LiveData, REST APIs, and multi-modular app architecture**.  
+- I enjoy **developing cross-platform apps, automating UI code generation, and exploring new tech**. <img width="0%" align="right" alt="Github Image" src="https://t3.ftcdn.net/jpg/03/76/74/78/360_F_376747823_L8il80K6c2CM1lnPYJhhJZQNl6ynX1yj.jpg" />
+- Reach me at: **meenagopal24@gmail.com**  
+- Let's connect on [LinkedIn](https://www.linkedin.com/in/meenagopal24/).  
+- Fun fact: I love automating repetitive tasks and building developer-friendly tools.  
+
+  </td>
         </tr>
         <tr>
             <td width="38%"> <img align="right" alt="Github Image" src="https://i.ibb.co/4TsDWxn/me-unscreen.giff" /></td>
@@ -67,7 +68,7 @@ class About extends Me {
 
 ---
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=codexliner&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150">
   <img src="https://nirzak-streak-stats.vercel.app/?user=codexliner&theme=dark&hide_border=false" height="150">
 </p>
@@ -75,20 +76,20 @@ class About extends Me {
 
 
 <!-- <hr></hr> -->
-<div align="center" width="50">
-<img src=https://i.ibb.co/y5L7gMZ/dino-rounded-1.gif" width="75%"/><br>
+<div align="start" width="50">
+<img src=https://i.ibb.co/y5L7gMZ/dino-rounded-1.gif" width="100%"/><br>
 <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/> -->
 </div>
 
 ## Links
 
 <p align="center">
-  <a href="https://meenagopal24.live/"><img width = 30 src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
-  <a href="mailto:meenagopal24@gmail.com"><img  width = 30 src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/meenagopal24"><img width = 30  src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
-   <a href="https://www.instagram.com/meenagopal24"><img width = 30  src="https://img.icons8.com/color/32/000000//instagram-new.png" alt="linkedin"/></a>
-  <a href="https://twitter.com/meenagopal_24"><img  width = 30 src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href= "https://dev.to/mg24"><img width = 30  src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+  <a href="https://meenagopal24.live/"><img width = 30 src="https://img.icons8.com/3d-fluency/94/globe.png" alt="darkwood"/></a>
+  <a href="mailto:meenagopal24@gmail.com"><img  width = 30 src="https://img.icons8.com/color/48/gmail-new.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/meenagopal24"><img width = 30  src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
+   <a href="https://www.instagram.com/meenagopal24"><img width = 30  src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="linkedin"/></a>
+  <a href="https://twitter.com/meenagopal_24"><img  width = 30 src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter"/></a>
+  <!-- <a href= "https://dev.to/mg24"><img width = 30  src="https://img.icons8.com/windows/32/000000/dev.png"/></a> -->
 </p>
 
 #
