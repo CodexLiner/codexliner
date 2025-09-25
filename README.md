@@ -57,6 +57,16 @@ class About extends Me {
 
 ```
 
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31bdvwl4flozvysmteuevpbfnipe)
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codexliner&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150">
   <img src="https://nirzak-streak-stats.vercel.app/?user=codexliner&theme=dark&hide_border=false" height="150">
