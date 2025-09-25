@@ -58,10 +58,13 @@ class About extends Me {
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codexliner&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=codexliner&theme=dark&hide_border=false" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexliner&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150">
+  <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=codexliner&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"></td>
+      <td><img src="https://nirzak-streak-stats.vercel.app/?user=codexliner&theme=dark&hide_border=false" height="150"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexliner&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"></td>
+    </tr>
 </p>
+
 
 <!-- <hr></hr> -->
 <div align="center" width="50">
