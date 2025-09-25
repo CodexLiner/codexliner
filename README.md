@@ -44,22 +44,12 @@ I'm an android developer by specialization and am a software engineer at heart.
 </p> -->
 
 ```dart
-// Languages and Tools
-class About extends Me {
-  const myTools = {
-    "ProgramingLanguages" : { "Java","Kotlin", "Dart", "C++", "C", "Python", "Javascript" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" , "MongoDB" },
-    "Editors" : { "Vscode", "Sublime", "Intelij" ,"Android Studio" },
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
+
 ```
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=codexliner&show_icons=true&theme=bear&hide_border=fals" width = "42.4%">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=codexliner&theme=bear&hide_border=false" width = "45%">
+  <img src = "https://nirzak-streak-stats.vercel.app/?user=codexliner&theme=dark&hide_border=false" width = "45%">
 </p>
 <!-- <hr></hr> -->
 <div align="center" width="50">
