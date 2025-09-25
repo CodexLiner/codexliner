@@ -81,18 +81,19 @@ class About extends Me {
 <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/> -->
 </div>
 
-## Links
+---
 
-<p align="center">
-  <a href="https://meenagopal24.live/"><img width = 30 src="https://img.icons8.com/3d-fluency/94/globe.png" alt="darkwood"/></a>
-  <a href="mailto:meenagopal24@gmail.com"><img  width = 30 src="https://img.icons8.com/color/48/gmail-new.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/meenagopal24"><img width = 30  src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
-   <a href="https://www.instagram.com/meenagopal24"><img width = 30  src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="linkedin"/></a>
-  <a href="https://twitter.com/meenagopal_24"><img  width = 30 src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter"/></a>
-  <!-- <a href= "https://dev.to/mg24"><img width = 30  src="https://img.icons8.com/windows/32/000000/dev.png"/></a> -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://meenagopal24.live/" target="_blank"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:meenagopal24@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/meenagopal24" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/meenagopal24" target="_blank">
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://twitter.com/meenagopal_24" target="_blank">  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
-#
+---
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder=false&theme=bear&qColor=#ffffff&aColor=#ffffff" alt="Error fetching resource, Refresh again to view Jokes Card"  width = '11000' />
 
