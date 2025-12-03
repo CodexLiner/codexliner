@@ -21,13 +21,14 @@ I'm a student at [Medicaps University Indore](https://www.medicaps.ac.in).
 <td rowspan=6>
               
 ## Abstract
-I'm an **Android Software Engineer** specializing in **Kotlin, Jetpack Compose, and Multiplatform development**.  
+I'm an **Android Software Engineer** specializing in **Kotlin, Jetpack Compose, Multiplatform (KMP), and Backend development**.  
 - Currently working at **Digivalet Private Limited**, building scalable and modular Android applications.  
-- Experienced in **GraphQL, Kotlin Coroutines, LiveData, REST APIs, and multi-modular app architecture**.  
-- I enjoy **developing cross-platform apps, automating UI code generation, and exploring new tech**. <img width="0%" align="right" alt="Github Image" src="https://t3.ftcdn.net/jpg/03/76/74/78/360_F_376747823_L8il80K6c2CM1lnPYJhhJZQNl6ynX1yj.jpg" />
+- Experienced in **GraphQL, Ktor, Kotlin Coroutines, LiveData, REST APIs, Backend services, and multi-modular app architecture**.  
+- I enjoy **developing cross-platform apps, optimizing backend integrations, automating UI code generation, and exploring new tech**. <img width="0%" align="right" alt="Github Image" src="https://t3.ftcdn.net/jpg/03/76/74/78/360_F_376747823_L8il80K6c2CM1lnPYJhhJZQNl6ynX1yj.jpg" />
 - Reach me at: **meenagopal24@gmail.com**  
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/meenagopal24/).  
 - Fun fact: I love automating repetitive tasks and building developer-friendly tools.  
+
 
   </td>
         </tr>
